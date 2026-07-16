@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         即梦AI高清图片下载器
+// @name         JM-AI高清图片下载器
 // @namespace    http://tampermonkey.net/
-// @version      14.0
-// @description  智能识别并下载即梦画布页中的高清原图，自动过滤参考图和缩略图
-// @author       Tabbit Agent
+// @version      1.0
+// @description  智能识别并下载JM画布页中的高清原图，自动过滤参考图和缩略图
+// @author       hlc （🌍wx：hlc12336_）
 // @match        https://jimeng.jianying.com/ai-tool/canvas/*
 // @grant        none
 // @run-at       document-idle
@@ -360,7 +360,7 @@
         // 延迟一点确保画布渲染完毕
         setTimeout(function() {
             createPanel();
-            log('面板已就绪 - 即梦下载器 v14.0');
+            log('面板已就绪 - JM下载器 v1.0');
         }, 1000);
     }
 
