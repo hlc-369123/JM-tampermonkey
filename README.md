@@ -1,4 +1,5 @@
-# JM 高清图片下载使用说明
+# JM 高清图片下载使用说明（！！！声明，脚本是通过编程工具编写，无任何利益捆绑，不确定是否存在风险，安装使用前请自行评估，出现其他损害不承担任何责任）
+
 1、先下载安装油猴插件，可自行下载或者在官网上下载（https://www.tampermonkey.net/index.php?ext=dhdg&version=5.5.0），安装之后设置对应的权限；
 <img width="666" height="321" alt="image" src="https://github.com/user-attachments/assets/9928e328-cf49-4598-aee1-498b53d1a3a2" />
 2、下载JM-tampermonkey文件
